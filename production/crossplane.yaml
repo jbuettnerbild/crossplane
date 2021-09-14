@@ -82,7 +82,7 @@ spec:
   project: production
   source:
     path: bucket
-    repoURL: https://github.com/vfarcic/crossplane-kubevela-argocd-demo
+    repoURL: https://github.com/jbuettnerbild/crossplane
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
