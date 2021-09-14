@@ -21,7 +21,7 @@ spec:
       releaseName: guestbook
       # The path is relative to the spec.source.path directory defined above
       valueFiles:
-        - values-prod.yaml
+        - values-production.yaml
 
       # Values file as block file
       values: |
